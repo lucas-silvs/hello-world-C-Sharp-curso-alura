@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriandoVariaveis", "CriandoVariaveis\CriandoVariaveis.csproj", "{EE37B772-9F84-439A-85DC-A4AD6C4171BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoDeVariaveis", "ConversaoDeVariaveis\ConversaoDeVariaveis.csproj", "{6AAF2042-987E-4D7C-8B58-449BE7FC525D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fatorial", "fatorial\fatorial.csproj", "{481E77D7-B4F6-4602-AEB1-EF5F7FD26EB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE37B772-9F84-439A-85DC-A4AD6C4171BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE37B772-9F84-439A-85DC-A4AD6C4171BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE37B772-9F84-439A-85DC-A4AD6C4171BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE37B772-9F84-439A-85DC-A4AD6C4171BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AAF2042-987E-4D7C-8B58-449BE7FC525D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AAF2042-987E-4D7C-8B58-449BE7FC525D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AAF2042-987E-4D7C-8B58-449BE7FC525D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AAF2042-987E-4D7C-8B58-449BE7FC525D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{481E77D7-B4F6-4602-AEB1-EF5F7FD26EB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{481E77D7-B4F6-4602-AEB1-EF5F7FD26EB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{481E77D7-B4F6-4602-AEB1-EF5F7FD26EB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{481E77D7-B4F6-4602-AEB1-EF5F7FD26EB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

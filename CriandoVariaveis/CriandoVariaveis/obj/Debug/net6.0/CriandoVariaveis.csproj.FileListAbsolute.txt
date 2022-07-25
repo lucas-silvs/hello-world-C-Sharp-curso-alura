@@ -1,0 +1,15 @@
+/home/somnus/Documentos/git/hello-world-C-Sharp-curso-alura/CriandoVariaveis/CriandoVariaveis/bin/Debug/net6.0/CriandoVariaveis
+/home/somnus/Documentos/git/hello-world-C-Sharp-curso-alura/CriandoVariaveis/CriandoVariaveis/bin/Debug/net6.0/CriandoVariaveis.deps.json
+/home/somnus/Documentos/git/hello-world-C-Sharp-curso-alura/CriandoVariaveis/CriandoVariaveis/bin/Debug/net6.0/CriandoVariaveis.runtimeconfig.json
+/home/somnus/Documentos/git/hello-world-C-Sharp-curso-alura/CriandoVariaveis/CriandoVariaveis/bin/Debug/net6.0/CriandoVariaveis.dll
+/home/somnus/Documentos/git/hello-world-C-Sharp-curso-alura/CriandoVariaveis/CriandoVariaveis/bin/Debug/net6.0/CriandoVariaveis.pdb
+/home/somnus/Documentos/git/hello-world-C-Sharp-curso-alura/CriandoVariaveis/CriandoVariaveis/obj/Debug/net6.0/CriandoVariaveis.csproj.AssemblyReference.cache
+/home/somnus/Documentos/git/hello-world-C-Sharp-curso-alura/CriandoVariaveis/CriandoVariaveis/obj/Debug/net6.0/CriandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+/home/somnus/Documentos/git/hello-world-C-Sharp-curso-alura/CriandoVariaveis/CriandoVariaveis/obj/Debug/net6.0/CriandoVariaveis.AssemblyInfoInputs.cache
+/home/somnus/Documentos/git/hello-world-C-Sharp-curso-alura/CriandoVariaveis/CriandoVariaveis/obj/Debug/net6.0/CriandoVariaveis.AssemblyInfo.cs
+/home/somnus/Documentos/git/hello-world-C-Sharp-curso-alura/CriandoVariaveis/CriandoVariaveis/obj/Debug/net6.0/CriandoVariaveis.csproj.CoreCompileInputs.cache
+/home/somnus/Documentos/git/hello-world-C-Sharp-curso-alura/CriandoVariaveis/CriandoVariaveis/obj/Debug/net6.0/CriandoVariaveis.dll
+/home/somnus/Documentos/git/hello-world-C-Sharp-curso-alura/CriandoVariaveis/CriandoVariaveis/obj/Debug/net6.0/refint/CriandoVariaveis.dll
+/home/somnus/Documentos/git/hello-world-C-Sharp-curso-alura/CriandoVariaveis/CriandoVariaveis/obj/Debug/net6.0/CriandoVariaveis.pdb
+/home/somnus/Documentos/git/hello-world-C-Sharp-curso-alura/CriandoVariaveis/CriandoVariaveis/obj/Debug/net6.0/CriandoVariaveis.genruntimeconfig.cache
+/home/somnus/Documentos/git/hello-world-C-Sharp-curso-alura/CriandoVariaveis/CriandoVariaveis/obj/Debug/net6.0/ref/CriandoVariaveis.dll

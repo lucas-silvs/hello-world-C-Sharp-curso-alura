@@ -1,0 +1,15 @@
+/home/somnus/Documentos/git/hello-world-C-Sharp-curso-alura/CriandoVariaveis/fatorial/obj/Debug/net6.0/fatorial.csproj.AssemblyReference.cache
+/home/somnus/Documentos/git/hello-world-C-Sharp-curso-alura/CriandoVariaveis/fatorial/obj/Debug/net6.0/fatorial.GeneratedMSBuildEditorConfig.editorconfig
+/home/somnus/Documentos/git/hello-world-C-Sharp-curso-alura/CriandoVariaveis/fatorial/obj/Debug/net6.0/fatorial.AssemblyInfoInputs.cache
+/home/somnus/Documentos/git/hello-world-C-Sharp-curso-alura/CriandoVariaveis/fatorial/obj/Debug/net6.0/fatorial.AssemblyInfo.cs
+/home/somnus/Documentos/git/hello-world-C-Sharp-curso-alura/CriandoVariaveis/fatorial/obj/Debug/net6.0/fatorial.csproj.CoreCompileInputs.cache
+/home/somnus/Documentos/git/hello-world-C-Sharp-curso-alura/CriandoVariaveis/fatorial/bin/Debug/net6.0/fatorial
+/home/somnus/Documentos/git/hello-world-C-Sharp-curso-alura/CriandoVariaveis/fatorial/bin/Debug/net6.0/fatorial.deps.json
+/home/somnus/Documentos/git/hello-world-C-Sharp-curso-alura/CriandoVariaveis/fatorial/bin/Debug/net6.0/fatorial.runtimeconfig.json
+/home/somnus/Documentos/git/hello-world-C-Sharp-curso-alura/CriandoVariaveis/fatorial/bin/Debug/net6.0/fatorial.dll
+/home/somnus/Documentos/git/hello-world-C-Sharp-curso-alura/CriandoVariaveis/fatorial/bin/Debug/net6.0/fatorial.pdb
+/home/somnus/Documentos/git/hello-world-C-Sharp-curso-alura/CriandoVariaveis/fatorial/obj/Debug/net6.0/fatorial.dll
+/home/somnus/Documentos/git/hello-world-C-Sharp-curso-alura/CriandoVariaveis/fatorial/obj/Debug/net6.0/refint/fatorial.dll
+/home/somnus/Documentos/git/hello-world-C-Sharp-curso-alura/CriandoVariaveis/fatorial/obj/Debug/net6.0/fatorial.pdb
+/home/somnus/Documentos/git/hello-world-C-Sharp-curso-alura/CriandoVariaveis/fatorial/obj/Debug/net6.0/fatorial.genruntimeconfig.cache
+/home/somnus/Documentos/git/hello-world-C-Sharp-curso-alura/CriandoVariaveis/fatorial/obj/Debug/net6.0/ref/fatorial.dll
